@@ -1,0 +1,12 @@
+Here is my home work.
+
+I am currently using Mac OS X. The programs were coded on CLion, an IDE for C/C++. An if you find CMakeLists.txt file in the folder, that's the needed file if you are also using CLion IDE.
+
+Also I have run g++ to generate the excutable file under the each folder, in case you are using another platform and try to run my program under command line. Go to the homework folder with the excutable file and run "./Fibonacci" for example, should be alright to run the program.
+
+Another method to test the code is, just open any IDE/VIM/Emacs you prefer and start to read the code, then build it by yourself.
+
+Thanks for your reading :)
+
+Yifen Wu
+X10497040
